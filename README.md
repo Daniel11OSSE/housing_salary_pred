@@ -18,7 +18,7 @@ Below are a few highlights.
 
 ![alt text](https://github.com/Daniel11OSSE/housing_salary_pred/blob/master/California.png "Population by District")
 ![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation.png "Correlation between median housing price and median income")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/Correlation_many.png "Correlations with median housing price")
+![alt text](https://github.com/Daniel11OSSE/housing_salary_pred/blob/master/Correlation_many.PNG "Correlations with median housing price")
 
 ## Model Building 
 ### Data Cleaning
